@@ -1,0 +1,19 @@
+{
+  "name": "jswithapis",
+  "version": "1.0.0",
+  "description": "Haciendo uso de una api con JavaScript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabioB33/JsWithApis.git"
+  },
+  "author": "@fabiob",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fabioB33/JsWithApis/issues"
+  },
+  "homepage": "https://github.com/fabioB33/JsWithApis#readme"
+}
